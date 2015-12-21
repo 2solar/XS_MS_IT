@@ -1,0 +1,11 @@
+------------------------------------------------------
+Digital torque Screwdriver TOHNICHI
+Baud rate: 2400,4800,9600,19200 (default 2400)
+Data lenght: 7 bits/8 (default: 7 bits)
+Stop bit: 1 bit
+Parity: None
+Flow control: Hardware (RTS/CTS)
+------------------------------------------------------
+ESD PGT120
+...
+------------------------------------------------------

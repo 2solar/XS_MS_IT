@@ -1,0 +1,15 @@
+------------------------------------------------------------
+Digital Torque Screwdriver
+Baud rate: 2400,4800,9600,19200 bps (default 2400 bps)
+Data lenght: 7 bits/ 8 bits (default 7 bits)
+Stop bit: 1 bit
+Parity: None
+Flow control: Hardware (RTS/CTS)
+----------------------------------------------------------
+PGT120 (ESD)
+Baud rate: 9600
+Data lenght: 8 
+Stop bit: 1 
+Parity: None
+FloW control: Hardware
+----------------------------------------------------------
